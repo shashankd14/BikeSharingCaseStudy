@@ -6,9 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - US bike-sharing provider BoomBikes wants to understand the factors affecting the demand for these shared bikes in the American market
